@@ -15,3 +15,5 @@ Items ==[
     "Sunglasses",
     "Map"
 ]
+count = len(Items)
+print("Number of items in the list:", count)
