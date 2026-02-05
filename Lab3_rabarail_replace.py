@@ -5,4 +5,5 @@ Starter code: None
 Date:02/05/2026"""
 from Lab3_Rabarail_add import Items
 Items[4] = "Binoculars"
-      
+sliceNotation = Items[0:4]
+
