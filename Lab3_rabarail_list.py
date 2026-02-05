@@ -3,7 +3,7 @@ AUthor: Rajani Baraili
 Purpose:Creating and sorting list 
 Starter code: None
 Date:02/05/2026"""
-Items ==[
+Items =[
     "Tent poles",
     "Suncreen",
     "Snacks",
@@ -17,3 +17,6 @@ Items ==[
 ]
 count = len(Items)
 print("Number of items in the list:", count)
+sorted_items = sorted(Items)
+print("Items in alphabetical order:", sorted_items)
+
