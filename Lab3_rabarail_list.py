@@ -1,6 +1,6 @@
 """Program name: Working with lists 
 AUthor: Rajani Baraili
-Purpose:Working with multiple files 
+Purpose:Creating and sorting list 
 Starter code: None
-Date:02/04/2026"""
+Date:02/05/2026"""
 
