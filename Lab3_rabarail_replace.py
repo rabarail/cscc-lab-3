@@ -8,3 +8,5 @@ Items[4] = "Binoculars"
 sliceNotation = Items[0:4]
 print("Items after replacing and slicing:")
 print(sliceNotation)
+binoculars = Items[5:17]
+print("The item after binoculars:", binoculars)
